@@ -1,7 +1,7 @@
 {
   "runId": "curated_showcase_20260604",
   "title": "Splat Demo Room",
-  "generatedAt": "2026-06-04T07:02:23.136Z",
+  "generatedAt": "2026-06-04T07:51:19.377Z",
   "categories": [
     {
       "id": "small-props",
@@ -204,7 +204,7 @@
     {
       "id": "sealed_magma_lantern",
       "name": "Sealed Magma Lantern",
-      "category": "Effect Objects",
+      "category": "Background Objects",
       "profile": "standard_s20_g3",
       "profileLabel": "standard_s20_g3",
       "gaussianCount": 131072,
@@ -224,7 +224,7 @@
     {
       "id": "mana_reliquary",
       "name": "Mana Reliquary",
-      "category": "Effect Objects",
+      "category": "Small Props",
       "profile": "standard_s20_g3",
       "profileLabel": "standard_s20_g3",
       "gaussianCount": 131072,
@@ -244,7 +244,7 @@
     {
       "id": "carved_elemental_monolith",
       "name": "Carved Elemental Monolith",
-      "category": "Effect Objects",
+      "category": "Background Objects",
       "profile": "standard_s20_g3",
       "profileLabel": "standard_s20_g3",
       "gaussianCount": 131072,
